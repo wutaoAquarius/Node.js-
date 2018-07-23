@@ -20,6 +20,7 @@ npm install express-generator -g
 express -e 项目名称
 
 生成后的应用结构如下：
+``` 
 .
 ├── LICENSE
 ├── README.md
@@ -39,6 +40,7 @@ express -e 项目名称
     ├── error.ejs
     └── index.ejs
 7 directories, 10 files
+``` 
 
 app.js是express的设置文件
 bin/www是express执行文件
@@ -53,3 +55,5 @@ npm install
 ### 启动项目
 npm start 或者直接 node ./bin/www 启动项目
 
+###结束项目运行
+按 Ctrl + C ;

@@ -1,12 +1,5 @@
-#Mysql安装教程
+#Mysql 5.6 卸载教程
+https://blog.csdn.net/mazeyqian/article/details/78053872
 
-##CenterOS 7 安装mysql , 此处安装的为mysql5.6
-
-参考网址：https://blog.csdn.net/qq_26907251/article/details/78819168
-```
-wget http://repo.mysql.com/mysql-community-release-el7-5.noarch.rpm
-rpm -ivh mysql-community-release-el7-5.noarch.rpm
-yum install mysql-server
-
-//
-```
+#Mysql 8.0 安装教程
+https://blog.csdn.net/shenliang1985/article/details/79238884

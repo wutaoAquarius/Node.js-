@@ -243,7 +243,7 @@ $ git checkout [commit] [file]
 ### 恢复暂存区的所有文件到工作区
 $ git checkout .
 
-###创建一个全新的分支，不包含原分支的提交历史
+### 创建一个全新的分支，不包含原分支的提交历史
 git checkout --orphan gh-pages
 
 ### 重置暂存区的指定文件，与上一次commit保持一致，但工作区不变

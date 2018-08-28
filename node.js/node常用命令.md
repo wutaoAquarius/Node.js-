@@ -42,12 +42,14 @@ express -e 项目名称
 7 directories, 10 files
 ``` 
 
+```
 app.js是express的设置文件
 bin/www是express执行文件
 package.json是nodejs项目的配置文件，用于保存应用信息与依赖管理
 public文件夹为web应用的资源文件夹
 routes保存路由文件
 views保存网站的ejs视图代码
+```
 
 ### 安装项目依赖
 npm install

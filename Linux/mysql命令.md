@@ -1,3 +1,8 @@
+## mysql 截取字符串
+https://www.cnblogs.com/lcngu/p/6200477.html  
+
+ 
+
 ## linux 下 mysql导出数据命令  
 `https://www.cnblogs.com/0201zcr/p/5846153.html`
 
